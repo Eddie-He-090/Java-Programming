@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Shopping_List:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Shopping_List_jar</output-path>
+    <root id="archive" name="Shopping_List.jar">
+      <element id="module-output" name="Shopping_List" />
+    </root>
+  </artifact>
+</component>
