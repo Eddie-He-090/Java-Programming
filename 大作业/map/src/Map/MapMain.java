@@ -19,7 +19,7 @@ public class MapMain {
 	public static void main(String[] args) throws IOException {
 		Scanner scanner = new Scanner(System.in);
 		while (true) {
-			System.out.println("****欢迎使用地图程序，请输入对应数字选择地图****");
+			System.out.println("****欢迎使用地图系统，请输入对应数字选择地图****");
 			System.out.println("1——高德地图");
 			System.out.println("2——百度地图");
 			System.out.println("0——退出程序");
